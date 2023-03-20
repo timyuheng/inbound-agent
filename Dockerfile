@@ -1,1 +1,1 @@
-FROM jenkins/inbound-agent:latest-alpine-jdk8
+FROM jenkins/inbound-agent:3107.v665000b_51092-4
